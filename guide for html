@@ -1,0 +1,45 @@
+HTML is the foundation of basically every web page. It’s how we tell browsers to structure content into paragraphs, headings, images, links, lists, forms, tables, buttons, and more. If you’re interested in building a website, web development, or just coding in general, learning HTML is a great place to start.
+
+In this guide to HTML for beginners, we’ll learn what HTML is and what it’s used for. Then, we’ll walk through how to write some basic HTML and review some of its most important elements and attributes. We’ll end with a brief look at some resources you can use to continue learning and using HTML.
+
+What is HTML?
+
+HTML, short for HyperText Markup Language, is the core language of the World Wide Web. It defines the content and basic structure of web pages and web applications.
+
+First published by Tim Berners-Lee in 1989, HTML is now used by 94% of all websites, and probably all the ones you visit. But what is it, exactly?
+
+As mentioned above, HTML is an acronym for “HyperText Markup Language.” Let’s break this down to better understand what HTML actually means.
+
+“HyperText” is text on a web page that contains references to another web page. You probably know these as hyperlinks. We use hyperlinks to jump to another section of the same page, a different page on the current website, or a completely new website. Hyperlinks can also open a PDF, email, or multimedia, like a video or audio file.
+
+Linking information together in this way was a revolutionary step in building the web. Together, HTML and the internet make it possible for anyone to access all types of information around the world, in any order they want.
+
+Moving on, “Markup” refers to how HTML “marks up” the page with annotations within the HTML file. These annotations are not displayed on the web page itself. Instead, they work behind-the-scenes telling the browser how to display the document to visitors. We'll learn more about this markup soon.
+Finally, “Language” is the simplest part of the acronym to understand. Like any language, HTML has a unique syntax and alphabet. But what kind of language is it, exactly? Let’s tackle this question next.
+Is HTML a programming language?
+
+Whether HTML is or is not technically a “programming” language is an ongoing debate among web developers and experts. While the majority defines HTML as a “markup” language (not a programming language) some argue the two aren’t mutually exclusive.
+
+All programming languages have some functional purpose — they need to “do” something, whether it be evaluating expressions, declaring variables, or modifying data. JavaScript is the most widely-used programming language in web development. Other popular programming languages include Python, Java, and C.
+
+Though it’s very useful as we’ll see, HTML doesn’t really “do” anything in this sense. It simply gives browsers the content it needs to display. HTML doesn’t care how the browser goes about displaying the content, as long as it’s displayed. In other words, HTML has a structural purpose, not a functional one.
+
+Still, some developers use this same logic to argue that HTML is a programming language — it’s just a declarative programming language. According to Professor David Brailsford from the University of Nottingham, declarative languages are more restricted than other languages, but that doesn’t make them any less of a programming language. You can see his full argument in this video.
+
+With that in mind, let’s move on to what HTML is used for.
+What is HTML used for?
+
+HTML is primarily used for creating web pages. HTML is free to use and ensures your text, images, and other elements are displayed as intended.
+
+With HTML, not only can you add headings, paragraphs, lists, and other elements to your page — you can also embed images, videos, audio files, and other multimedia. And, you can link to other web pages on the same website or from another site. This allows visitors to easily navigate your website and jump between websites.
+
+Even after adding headings, images, and hyperlinks, you’d still have a very basic web page — and that’s by design. HTML is purely for the content of a page. It creates a simple base upon which you can add styling with another language called CSS (which stands for Cascading Style Sheets). With CSS, you can
+customize your styling and layouts, changing the color, font, and alignment of elements.
+
+HTML is used to create things other than web pages, too. You can use it to:
+
+    make tables for organizing data
+    create forms for collecting user information, processing transactions, making reservations, or placing an order
+    create emails with HTML
+
+Whether you want to create web pages, tables, forms, or emails, you'll need to know how to write HTML. 
